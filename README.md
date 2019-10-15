@@ -4,6 +4,7 @@ Learning Github
 #include<conio.h>
 void main()
 {
+print("HELLO WORLD"):
 printf("Hi  vidit here");
 getch();
 }
